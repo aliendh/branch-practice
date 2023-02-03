@@ -1,9 +1,9 @@
 # Get Integer from user
-user_numm = int(input('Hello, there! Enter some positive integer: '))
-
-# Print user_num for debugging
-print(user_num)
+user_num = int(input('Hello, there! Enter some positive integer: '))
 
 # Iteration
 for i in range(1, user_num+1):
-   print(f'{i}')
+   if i%3==0:   
+	print(f'{i}')
+   else:
+        print(f'{i}')
