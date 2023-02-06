@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,vim,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,vim,python
+# Created by https://www.toptal.com/developers/gitignore/api/macos,python,vim
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,vim
 
 ### macOS ###
 # General
@@ -224,4 +224,4 @@ tags
 # Persistent undo
 [._]*.un~
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,vim,python
+# End of https://www.toptal.com/developers/gitignore/api/macos,python,vim
